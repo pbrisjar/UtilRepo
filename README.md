@@ -1,0 +1,1 @@
+Hi. Welcome to my collection of DBA/Database Engineer utility scripts. Most of these are scripts I've had hanging around for years (if not decades). I do my best to keep them up to date but there may be a deprecated object or two still lurking around. Let me know if you have any questions or comments.
